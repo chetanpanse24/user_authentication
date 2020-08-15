@@ -1,0 +1,4 @@
+.env.txt
+loginapp/__pycache__
+userlogin/__pycache__
+loginapp/migrations/__pycache__
